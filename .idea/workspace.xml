@@ -1,45 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="32d6e7b9-a5e2-4d60-94db-00d0968de02a" name="Changes" comment="versión inicial" />
+    <list default="true" id="32d6e7b9-a5e2-4d60-94db-00d0968de02a" name="Changes" comment="archivo main creado">
+      <change afterPath="$PROJECT_DIR$/src/Estudiante.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persona.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profesor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ej09-Herencia-Clases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ej09-Herencia-Clases.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "moraalees"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moraalees&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:moraalees/Ej09-Herencia-Clases.git",
-    "accountId": "9ed99549-f1b6-4df2-b8b1-b8fe2bfe387f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:moraalees/Ej09-Herencia-Clases.git&quot;,
+    &quot;accountId&quot;: &quot;9ed99549-f1b6-4df2-b8b1-b8fe2bfe387f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2tM7C1mosG7CEKXV5rgZFZOy64E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/crist/OneDrive/Documentos/RepostGit/Ej10-Herencia-Clases",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\OneDrive\Documentos\RepostGit\Ej09-Herencia-Clases\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1740149958562</updated>
       <workItem from="1740149959595" duration="14000" />
+      <workItem from="1740151771434" duration="374000" />
+      <workItem from="1740152163720" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="versión inicial">
       <option name="closed" value="true" />
@@ -66,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740149965773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="archivo main creado">
+      <option name="closed" value="true" />
+      <created>1740151800512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740151800512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versión inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="versión inicial" />
+    <MESSAGE value="archivo main creado" />
+    <option name="LAST_COMMIT_MESSAGE" value="archivo main creado" />
   </component>
 </project>
